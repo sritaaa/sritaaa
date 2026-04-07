@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Srita 👋</h1>
 
-<!--
-**sritaaa/sritaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Third-year undergraduate at IIT Roorkee <br>
+Interested in energy optimization ⚡ and sustainable systems 🌱 <br>
+Exploring AI applications for smarter and more efficient solutions
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 IIT Roorkee (3rd Year)
+- ⚡ Energy optimization & efficiency
+- 🤖 Exploring AI in energy systems
+- 🌍 Interested in real-world impact
+
+---
+
+### 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+
+
+
+
