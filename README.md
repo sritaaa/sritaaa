@@ -1,4 +1,5 @@
 ### Hey, I’m Srita
+---
 <p align="left">
 I am a third-year undergraduate at IIT Roorkee and I’m interested in energy optimization and efficiency, and how we can improve them for the betterment of society.
 </p>
