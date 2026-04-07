@@ -1,9 +1,6 @@
-<h1 align="center">Hi, I'm Srita 👋</h1>
 
-<p align="center">
-Third-year undergraduate at IIT Roorkee <br>
-Interested in energy optimization ⚡ and sustainable systems 🌱 <br>
-Exploring AI applications for smarter and more efficient solutions
+<p align="left">
+Hey, I’m Srita, a third-year undergraduate at IIT Roorkee. I’m interested in energy optimization and efficiency, and how we can improve them for the betterment of society.
 </p>
 
 ---
