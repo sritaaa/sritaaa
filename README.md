@@ -8,7 +8,6 @@ I am a third-year undergraduate at IIT Roorkee and I’m interested in energy op
 
 ### About Me
 -  IIT Roorkee (3rd Year)
--  Energy optimization & efficiency
 -  Exploring AI in energy systems
 -  Interested in real-world impact
 
