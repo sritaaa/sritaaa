@@ -1,7 +1,7 @@
 ### Hey, I’m Srita
 ---
 <p align="left">
-I am a aspiring machine learning engineer.
+I am an aspiring machine learning engineer.
 
 ---
 
